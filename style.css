@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -42,7 +42,6 @@ footer {
     color: white;
 }
 
-/* Main Content Styles */
 main {
     padding: 20px;
     background-color: #262626;
@@ -70,7 +69,6 @@ img {
     border: 5px solid #00ff00;
 }
 
-/* Form Styling */
 form {
     margin: 20px 0;
 }
@@ -102,11 +100,6 @@ button {
 button:hover {
     background-color: #00cc00;
 }
-footer a:hover{
-    text-decoration: underline;
-}
-
-/* Responsiveness */
 @media (max-width: 768px) {
     nav ul li {
         display: block;
